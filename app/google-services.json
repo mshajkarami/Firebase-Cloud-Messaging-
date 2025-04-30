@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609340687740",
+    "project_id": "fc-app-53f51",
+    "storage_bucket": "fc-app-53f51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609340687740:android:e6d063a11da5a14abad0f9",
+        "android_client_info": {
+          "package_name": "ir.hajkarami.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcBxhsupNqIOBRtDd4j4UHrooznGB-IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="ir.hajkarami.firebasecloudmessaging" />
+                  <option name="mobileSdkAppId" value="1:609340687740:android:e6d063a11da5a14abad0f9" />
+                  <option name="projectId" value="fc-app-53f51" />
+                  <option name="projectNumber" value="609340687740" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
