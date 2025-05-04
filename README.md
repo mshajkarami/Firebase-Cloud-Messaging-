@@ -1,4 +1,4 @@
-# 📲 **Firebase Cloud Messaging Android Example**
+# 📲 **Firebase Cloud Messaging**
 📦 Firebase Cloud Messaging Android Sample
 This project is a simple Android application that demonstrates the usage of Firebase Cloud Messaging (FCM) to:
 
